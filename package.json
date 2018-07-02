@@ -1,0 +1,11 @@
+{
+  "name": "easy-pagination",
+  "version": "1.0.0",
+  "description": "A simple pagination plugin, develop by pure native js and es2015, does not depend on any frameworks",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "zj781119282",
+  "license": "ISC"
+}
